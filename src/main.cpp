@@ -21,7 +21,7 @@ int main()
   const int screen_height = 800;
 
   InitWindow(screen_width, screen_height, 
-      "Pan and Zoom Example");
+      "SampleCAD");
 
   WorldSpace world_space {screen_width, screen_height};
   world_space.scale(100.0f);
