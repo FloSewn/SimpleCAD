@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5.2)
-project(pan_and_zoom
+project(SimpleCAD
         LANGUAGES CXX
         VERSION 1.0
 )

@@ -1,4 +1,4 @@
-set( APP raylib_app )
+set( APP SimpleCAD )
 
 add_executable(${APP}
                BackgroundGrid.cpp

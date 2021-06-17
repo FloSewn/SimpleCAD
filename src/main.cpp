@@ -80,12 +80,12 @@ int main()
   );
 
   /*--------------------------------------------------------
-  | Set our game to run at 60 frames-per-second
+  | Set app to run at 60 frames-per-second
   --------------------------------------------------------*/
   SetTargetFPS(60); 
 
   /*--------------------------------------------------------
-  | Main game loop
+  | Main loop
   --------------------------------------------------------*/
   while (!WindowShouldClose())    
   {
